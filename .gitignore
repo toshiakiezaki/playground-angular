@@ -10,6 +10,9 @@
 !.vscode/extensions.json
 .history/*
 
+# NodeJS
+package-lock.json
+
 # OSX
 .DS_Store
 
